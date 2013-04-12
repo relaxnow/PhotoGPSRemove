@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Photo GPS Remove</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_message">Welcome to Photo GPS Remover.</string>
+    <string name="getting_started">Add a Location to get started.</string>
+    <string name="title_activity_add_location">Add a location</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
